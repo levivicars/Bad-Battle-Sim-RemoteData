@@ -6,6 +6,7 @@
         "AC": 16,
         "maxHealth": 27,
         "attackDamage": 11
+        "imageScale": 0.1
     },
     {
          "name": "Cultist",
@@ -14,6 +15,7 @@
          "AC": 12,
          "maxHealth": 9,
          "attackDamage": 4
+        "imageScale": 0.13
     },
     {
          "name": "Giant Spider",
@@ -22,6 +24,7 @@
          "AC": 14,
          "maxHealth": 26,
          "attackDamage": 7
+        "imageScale": 0.21
     },
     {
          "name": "Goblin",
@@ -30,7 +33,7 @@
          "AC": 15,
          "maxHealth": 7,
          "attackDamage" : 5
-     
+         "imageScale": 0.15
     },
     {
          "name": "Ogre",
@@ -39,6 +42,7 @@
          "AC": 11,
          "maxHealth": 59,
          "attackDamage": 13
+        "imageScale": 0.16
     },
     {
          "name": "Orc",
@@ -47,7 +51,7 @@
          "AC": 13,
          "maxHealth": 15,
          "attackDamage": 9
-     
+        "imageScale": 0.22
     },
     {
          "name": "Owlbear",
@@ -56,6 +60,7 @@
          "AC": 13,
          "maxHealh": 59,
          "attackDamage": 10
+        "imageScale": 0.18
     },
     {
          "name": "Redbrand Ruffian",
@@ -64,6 +69,7 @@
          "AC": 14,
          "maxHealth": 16,
          "attackDamage": 5
+        "imageScale": 0.14
     },
     {
          "name": "Spectator",
@@ -72,6 +78,7 @@
          "AC": 14,
          "maxHealth": 39,
          "attackDamage": 2
+         "imageScale": 0.21
     },
     {
          "name": "Wolf",
@@ -80,6 +87,7 @@
          "AC": 13,
          "maxHealth": 11,
          "attackDamage": 7
+        "imageScale": 0.2
     },
     {
          "name": "Venomfang",
@@ -88,6 +96,7 @@
          "AC": 18,
          "maxHealth": 136,
          "attackDamage": 11
+        "imageScale": 0.2
     },
     {
          "name": "Zombie",
@@ -96,5 +105,6 @@
          "AC": 8,
          "maxHealth": 22,
          "attackDamage": 4
+        "imageScale": 0.15
     }
 ]
