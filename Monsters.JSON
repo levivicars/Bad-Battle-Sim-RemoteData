@@ -5,8 +5,8 @@
         "id": 0,
         "AC": 16,
         "maxHealth": 27,
-        "attackDamage": 11,
-        "imageScale": 0.1
+        "attackDamage": 11
+
     },
     {
          "name": "Cultist",
@@ -14,8 +14,7 @@
          "id": 1,
          "AC": 12,
          "maxHealth": 9,
-         "attackDamage": 4,
-        "imageScale": 0.13
+         "attackDamage": 4
     },
     {
          "name": "Giant Spider",
@@ -23,8 +22,7 @@
          "id": 2,
          "AC": 14,
          "maxHealth": 26,
-         "attackDamage": 7,
-        "imageScale": 0.21
+         "attackDamage": 7
     },
     {
          "name": "Goblin",
@@ -32,8 +30,7 @@
          "id": 3,
          "AC": 15,
          "maxHealth": 7,
-         "attackDamage" : 5,
-         "imageScale": 0.15
+         "attackDamage" : 5
     },
     {
          "name": "Ogre",
@@ -41,8 +38,7 @@
          "id": 4,
          "AC": 11,
          "maxHealth": 59,
-         "attackDamage": 13,
-        "imageScale": 0.16
+         "attackDamage": 13
     },
     {
          "name": "Orc",
@@ -50,8 +46,7 @@
          "id": 5,
          "AC": 13,
          "maxHealth": 15,
-         "attackDamage": 9,
-        "imageScale": 0.22
+         "attackDamage": 9
     },
     {
          "name": "Owlbear",
@@ -59,8 +54,7 @@
          "id": 6,
          "AC": 13,
          "maxHealh": 59,
-         "attackDamage": 10,
-        "imageScale": 0.18
+         "attackDamage": 10
     },
     {
          "name": "Redbrand Ruffian",
@@ -68,8 +62,7 @@
          "id": 7,
          "AC": 14,
          "maxHealth": 16,
-         "attackDamage": 5,
-        "imageScale": 0.14
+         "attackDamage": 5
     },
     {
          "name": "Spectator",
@@ -77,8 +70,7 @@
          "id": 8,
          "AC": 14,
          "maxHealth": 39,
-         "attackDamage": 2,
-         "imageScale": 0.21
+         "attackDamage": 2
     },
     {
          "name": "Wolf",
@@ -86,8 +78,7 @@
          "id": 9,
          "AC": 13,
          "maxHealth": 11,
-         "attackDamage": 7,
-        "imageScale": 0.2
+         "attackDamage": 7
     },
     {
          "name": "Venomfang",
@@ -95,8 +86,7 @@
          "id": 10,
          "AC": 18,
          "maxHealth": 136,
-         "attackDamage": 11,
-        "imageScale": 0.2
+         "attackDamage": 11
     },
     {
          "name": "Zombie",
@@ -104,7 +94,6 @@
          "id": 11,
          "AC": 8,
          "maxHealth": 22,
-         "attackDamage": 4,
-        "imageScale": 0.15
+         "attackDamage": 4
     }
 ]
